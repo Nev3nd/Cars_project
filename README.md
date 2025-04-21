@@ -2,7 +2,7 @@
 
 Установка
 1) Клонируйте репозиторий: 
-    git clone https://github.com/your-repo.git
+    git clone https://github.com/Nev3nd/Cars_project.git
 2) Создайте виртуальное окружение:
     python -m venv venv
     source venv/bin/activate  # На Windows: venv\Scripts\activate
